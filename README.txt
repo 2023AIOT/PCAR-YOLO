@@ -1,0 +1,1 @@
+PCAR-YOLO：A lightweight defect detection model based on improved five dimensional dynamic convolution and content aware upsampling
